@@ -8,7 +8,7 @@ Python 3.6
 Keras = 2.x (Tensorflow backend)
 
 
-## Data preprocessing
+## Data Preprocessing
 
 First before we get into the NN Model, we will preprocess the data set to suite the requirement of Machine Learning Model. To do this, we are going to apply two techniques:
 
