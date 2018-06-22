@@ -38,6 +38,8 @@ Normalization : Here we scale the data so that there are no inputs that dominate
  
  To increase the accuracy, we are using k-fold validation technique to achieve low bias and low variance and grid search technique for hyper parameter tunning to get the best suite parameters.
  
-  
+ ## Results
+ 
+ With the first run after building the model, acurray was around 80~82%, with k-fold validaiton and grid search, accuracy increased to 82%
 
 
