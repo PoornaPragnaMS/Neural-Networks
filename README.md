@@ -7,7 +7,6 @@ Python 3.6
 
 Keras = 2.x (Tensorflow backend)
 
-Pickle
 
 ## Data preprocessing
 
