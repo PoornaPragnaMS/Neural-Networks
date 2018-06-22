@@ -4,7 +4,9 @@ In this project, we are going to construct an Artificial Neural Netwrok Model fo
 
 ## Requirements
 Python 3.6
+
 Keras = 2.x (Tensorflow backend)
+
 Pickle
 
 ## Data preprocessing
