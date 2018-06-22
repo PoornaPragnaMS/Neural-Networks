@@ -40,6 +40,5 @@ Normalization : Here we scale the data so that there are no inputs that dominate
  
  ## Results
  
- With the first run after building the model, acurray was around 80~82%, with k-fold validaiton and grid search, accuracy increased to 86%
-
+ With the first run after building the model, acurray was around 80~82%, with k-fold validaiton and grid search, the final model got 86% accuracy.
 
